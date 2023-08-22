@@ -1,1 +1,3 @@
 this is sample pipeline test
+date
+hostname -i
