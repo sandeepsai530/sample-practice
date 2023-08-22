@@ -1,3 +1,1 @@
-this is sample pipeline test
-date
-hostname -i
+this is sample freestyle-project from webhook
