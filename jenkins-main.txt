@@ -1,1 +1,2 @@
 this is sample freestyle-project from webhook
+installed GIT
